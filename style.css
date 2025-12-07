@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first-nav{
+    width: 70%;
+    margin: auto;
+}
+
+.logo-pokemon{
+    width: 10%;
+    height: auto;
+    border-right: 2px solid lightgray;
+    border-left: 2px solid lightgray;    
+}
+
+.logo-pokemon-shop{
+    border-right: 2px solid lightgray;    
+}
+
+.logo-pokemon-tcd{
+    border-left: 2px solid lightgray;
+}
