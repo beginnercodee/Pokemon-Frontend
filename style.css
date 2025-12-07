@@ -10,15 +10,89 @@
 
 .logo-pokemon{
     width: 10%;
-    height: auto;
+    height: 55px;
     border-right: 2px solid lightgray;
     border-left: 2px solid lightgray;    
 }
 
 .logo-pokemon-shop{
+    height: 50px;
     border-right: 2px solid lightgray;    
 }
 
+.logo-pokemon-aboutus{
+    width: 9%;
+    border-right: 2px solid lightgray;
+}
+
 .logo-pokemon-tcd{
-    border-left: 2px solid lightgray;
+    border: 1px solid white;
+}
+
+.second-nav{
+    margin: auto;
+    width: 75%;
+}
+
+.home-nav{
+    text-align: center;
+    display: inline-block;
+    width: 10%;
+    height: 80px;
+    margin: auto;
+    border-bottom: 5px solid dimgray;
+}
+
+.pokedex{
+    text-align: center;
+    display: inline-block;
+    width: 10%;
+    height: 80px;
+    margin: auto;
+    border-bottom: 5px solid red;
+}
+
+.video-games{
+    text-align: center;
+    display: inline-block;
+    width: 10%;
+    height: 80px;
+    margin: auto;
+    border-bottom: 5px solid orange;
+}
+
+.trading-card{
+    text-align: center;
+    display: inline-block;
+    width: 10%;
+    height: 80px;
+    margin: auto;
+    border-bottom: 5px solid yellow;
+}
+
+.animation{
+    text-align: center;
+    display: inline-block;
+    width: 10%;
+    height: 80px;
+    margin: auto;
+    border-bottom: 5px solid green;
+}
+
+.events{
+    text-align: center;
+    display: inline-block;
+    width: 10%;
+    height: 80px;
+    margin: auto;
+    border-bottom: 5px solid skyblue;
+}
+
+.news{
+    text-align: center;
+    display: inline-block;
+    width: 10%;
+    height: 80px;
+    margin: auto;
+    border-bottom: 5px solid blue;
 }
